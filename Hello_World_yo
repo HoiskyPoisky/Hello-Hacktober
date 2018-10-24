@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <style>
+    body {
+      background-color:rgb(37, 103, 235);
+      color: #fff;
+      text-align: center;
+      font-size: 3em;
+      font-family: sans-serif;
+    }
+
+    .container  {
+      margin-top: 10%;
+    }
+
+    .container h1 {
+      margin-left: -27%;
+    }
+  
+  </style>
+  <title>Document</title>
+</head>
+<body>
+  <div class="container">
+    <p> Hello World! <p>
+  </div>
+  
+</body>
+</html>
